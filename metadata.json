@@ -1,0 +1,5 @@
+{
+  "name": "MixAlchemist",
+  "description": "An AI-powered mixologist that crafts unique cocktail and mocktail recipes based on the ingredients you have on hand.",
+  "requestFramePermissions": []
+}
